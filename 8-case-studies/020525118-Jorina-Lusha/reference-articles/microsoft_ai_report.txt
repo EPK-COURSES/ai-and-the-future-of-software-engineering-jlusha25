@@ -1,0 +1,8 @@
+Title: The Economic Impact of Generative AI on Developer Productivity: Evidence from GitHub Copilot
+Author: Microsoft Research & GitHub Engineering
+Year: 2023
+
+Key Findings and Data:
+1. Developer Velocity: Research telemetry shows that software developers using GitHub Copilot completed repetitive coding and boilerplate tasks up to 55% faster than developers working without AI assistance.
+2. Cognitive Load: The integration of generative AI within the IDE significantly reduced developer friction and lowered mental fatigue by automating mundane syntax formatting and documentation.
+3. Industry Adoption: Large-scale tech teams are shifting from traditional programming to systems monitoring, meaning engineers spend more time on code review and security audits rather than manual coding.
